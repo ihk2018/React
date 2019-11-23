@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.infoList{
+  border: solid 2px black;
+  list-style: none;
+  padding: 20x 40px;
+  text-align: left;
+
+}
+
+.hackyourweather_title{
+  margin: 1em ;
+  text-align: center;
+}
+
+.postDataInfo{
+  width: 40%;
+  border: 1px solid black;
+  margin: 2em 30%;
+}
+
+li{ 
+  padding: 7px;
+}
+
+.weather_info{
+  margin: 15px 0;
+}
